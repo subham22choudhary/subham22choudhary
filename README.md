@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Profile Link: [subham22choudhary.github.io](subham22choudhary.github.io)
-
 
 
 <!--
